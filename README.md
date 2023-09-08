@@ -71,6 +71,6 @@ This Docker Compose setup provides a development environment for Spring Cloud Da
 
 ## Additional Information
 
-For more details about each service and how to customize configurations, refer to the [docker-compose.yml](docker-compose.yml) file.
+For more details about each service and how to customize configurations, refer to the [docker-compose.yaml](docker-compose.yaml) file.
 
 For official documentation and resources, visit the [Spring Cloud Data Flow Documentation](https://dataflow.spring.io/docs/).
